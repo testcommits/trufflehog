@@ -2,3 +2,6 @@ Original Content
 Line one
 Line two
 Line three
+
+New Content
+Line four
